@@ -1,6 +1,13 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Clone the Repository
+
+```bash
+git clone [https://github.com/phyowan/JobApplicationTracker.git](https://github.com/phyowan/job-application-tracker-ui.git)
+
 
 ## Available Scripts
 
