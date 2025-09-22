@@ -42,7 +42,7 @@ REACT_APP_API_BASE_URL=http://localhost:5212/api
 REACT_APP_API_TIMEOUT=10000
 ```
 
-2. **Update the API URL** to match your backend server:
+2. **Update the API URL** to match the backend server:
 
 **For Local Development:**
 ```
