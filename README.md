@@ -5,7 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Clone the Repository
 
-```bash
 git clone https://github.com/phyowan/job-application-tracker-ui.git
 
 
